@@ -1,5 +1,5 @@
 <p>
-  <h1 align="center"><b>Hello there, I'm Diogo  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTiDlhvLyHw5YWRgCBHe16DFg6sLGlelk0zA&usqp=CAU" alt="" width="30"></h1>
+  <h1 align="center"><b>Hello there, I'm Diogo  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz-S2navHDjrVnq9IxTvV_HEyxxW2HoJs_RQ&usqp=CAU" alt="" width="30"></h1>
 </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/diogo-cordas/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
