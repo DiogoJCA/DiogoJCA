@@ -21,5 +21,5 @@
 <a href="https://github.com/DiogoJCA/365-Alert">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=DiogoJCA&repo=365-Alert&theme=tokyonight" />
 </a>
-
+<img src="https://github-readme-stats.vercel.app/api?username=DiogoJCA" />
 </p>
