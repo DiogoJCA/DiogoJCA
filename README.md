@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/diogo-cordas/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 </p>
 <br />
-<p>Enthusiastic Back-end Developer since 2021 using PHP, Laravel, MySQL, Node.JS, MongoDB, Express, NoSQL, Mongoose, AJAX. I also develop front-end projects and features using HTML5, CSS, Bootstrap, Ionic,   SASS, SCSS, Angular and currently learning React to pair with Node.JS
+<p>Enthusiastic Back-end Developer since 2021 using PHP, Laravel, MySQL, Node.JS, MongoDB, Express, NoSQL, Mongoose, AJAX. I also develop front-end projects and features using HTML5, CSS, Bootstrap, Ionic, SASS, SCSS, Angular and currently learning React to pair with Node.JS
 </p>
 <br />
 <h2 align="center">My favorite projects 💻</h2>
