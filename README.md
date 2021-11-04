@@ -22,6 +22,7 @@
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=DiogoJCA&repo=365-Alert&theme=tokyonight" />
 </a>
 <img width="400" src="https://github.com/DiogoJCA/Flower_App/blob/main/Flower_Exercise1/cover.png" />
+<br >
 <a href="https://github.com/DiogoJCA/Flower_App">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=DiogoJCA&repo=Flower_App&theme=tokyonight" />
 </a>
