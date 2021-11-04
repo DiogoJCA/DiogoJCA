@@ -18,7 +18,7 @@
 <a href="https://github.com/DiogoJCA/PHP_RESTful_API">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=DiogoJCA&repo=PHP_RESTful_API&theme=tokyonight" />
 </a>
-<a href="https://github.com/DiogoJCA/sos-animals">
+<a href="https://github.com/DiogoJCA/PHP_RESTful_API">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=DiogoJCA&PHP_RESTful_API&theme=tokyonight" />
 </a>
 
