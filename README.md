@@ -13,7 +13,7 @@
 
 <p align="center">
 <img width="400" src="https://github.com/DiogoJCA/PHP_RESTful_API/blob/main/47c8bc1fcbae.jpg" />
-<img width="400" src="https://github.com/DiogoJCA/365-Alert/blob/main/Home.png" />
+<img width="400" src="https://github.com/DiogoJCA/365-Alert/blob/main/Home.jpg" />
 
 <a href="https://github.com/DiogoJCA/PHP_RESTful_API">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=DiogoJCA&repo=PHP_RESTful_API&theme=tokyonight" />
