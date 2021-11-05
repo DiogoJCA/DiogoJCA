@@ -7,7 +7,9 @@
 <br />
 <p>Enthusiastic Back-end Developer since 2021 using PHP, Laravel, MySQL, Node.JS, MongoDB, Express, NoSQL, Mongoose, AJAX. I also develop front-end projects and features using HTML5, CSS, Bootstrap, Ionic, SASS, SCSS, Angular and currently learning React to pair with Node.JS
 </p>
+<p align="center>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=DiogoJCA&count_private=true&show_icons=true&theme=radical" />
+</p>
 <br />
 <h2 align="center">My favorite projects 💻</h2>
 <br />
@@ -64,6 +66,7 @@ Main features:<br />
 <a href="https://laravel.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="laravel" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/1280px-MySQL.svg.png" alt="mysql" width="40" height="40"/> </a>
 <a href="https://nodejs.org/en/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="nodejs" width="40" height="40"/> </a>
+<br />
 <a href="https://expressjs.com/" target="_blank"> <img src="https://amandeepmittal.gallerycdn.vsassets.io/extensions/amandeepmittal/expressjs/2.0.0/1509881293872/Microsoft.VisualStudio.Services.Icons.Default" alt="expressjs" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://sass-lang.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" alt="sass" width="40" height="40"/> </a>
