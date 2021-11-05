@@ -7,7 +7,7 @@
 <br />
 <p>Enthusiastic Back-end Developer since 2021 using PHP, Laravel, MySQL, Node.JS, MongoDB, Express, NoSQL, Mongoose, AJAX. I also develop front-end projects and features using HTML5, CSS, Bootstrap, Ionic, SASS, SCSS, Angular and currently learning React to pair with Node.JS
 </p>
-<p align="center>
+<p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=DiogoJCA&count_private=true&show_icons=true&theme=radical" />
 </p>
 <br />
