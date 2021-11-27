@@ -25,6 +25,7 @@
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=DiogoJCA&repo=365-Alert&theme=tokyonight" />
 </a>
 <img width="400" src="https://github.com/DiogoJCA/PHP_Login_System_OOP/blob/main/cover.png" />
+<br />
 <a href="https://github.com/DiogoJCA/PHP_Login_System_OOP">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=DiogoJCA&repo=PHP_Login_System_OOP&theme=tokyonight" />
 </a>
