@@ -24,11 +24,7 @@
 <a href="https://github.com/DiogoJCA/365-Alert">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=DiogoJCA&repo=365-Alert&theme=tokyonight" />
 </a>
-<img width="400" src="https://github.com/DiogoJCA/Flower_App/blob/main/Flower_Exercise1/cover.png" />
 <img width="400" src="https://github.com/DiogoJCA/PHP_Login_System_OOP/blob/main/cover.png" />
-<a href="https://github.com/DiogoJCA/Flower_App">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=DiogoJCA&repo=Flower_App&theme=tokyonight" />
-</a>
 <a href="https://github.com/DiogoJCA/PHP_Login_System_OOP">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=DiogoJCA&repo=PHP_Login_System_OOP&theme=tokyonight" />
 </a>
