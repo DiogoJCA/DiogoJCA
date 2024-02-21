@@ -21,9 +21,6 @@
 <a href="https://github.com/DiogoJCA/PHP_RESTful_API">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=DiogoJCA&repo=PHP_RESTful_API&theme=tokyonight" />
 </a>
-<a href="https://github.com/DiogoJCA/365-Alert">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=DiogoJCA&repo=365-Alert&theme=tokyonight" />
-</a>
 <img width="400" src="https://github.com/DiogoJCA/PHP_Login_System_OOP/blob/main/cover.png" />
 <br />
 <a href="https://github.com/DiogoJCA/PHP_Login_System_OOP">
