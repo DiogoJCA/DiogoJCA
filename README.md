@@ -11,20 +11,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=DiogoJCA&count_private=true&show_icons=true&theme=radical" />
 </p>
 <br />
-<h2 align="center">My favorite projects 💻</h2>
-<br />
-
-<p align="center">
-<img width="400" src="https://github.com/DiogoJCA/PHP_RESTful_API/blob/main/47c8bc1fcbae.jpg" />
-
-<a href="https://github.com/DiogoJCA/PHP_RESTful_API">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=DiogoJCA&repo=PHP_RESTful_API&theme=tokyonight" />
-</a>
-<img width="400" src="https://github.com/DiogoJCA/PHP_Login_System_OOP/blob/main/cover.png" />
-<br />
-<a href="https://github.com/DiogoJCA/PHP_Login_System_OOP">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=DiogoJCA&repo=PHP_Login_System_OOP&theme=tokyonight" />
-</a>
 <br >
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoJCA&langs_count=10&layout=compact" /> -->
